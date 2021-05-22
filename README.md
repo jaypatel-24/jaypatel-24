@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jay Patel
+- 👋 Hi, I’m Jay Patel, an aspiring full stack engineer
 - 👀 I’m interested in building backend of different applications.
-- 🌱 I’m currently learning mern stack.
+- 🌱 I’m currently working in MERN stack technology.
 - 📫 email : friend.jay24@gmail.com
 - 📫 contact : 9460942682
 
