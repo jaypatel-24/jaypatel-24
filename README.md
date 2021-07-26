@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Jay Patel, an aspiring full stack engineer
-- 👀 I’m interested in building backend of different applications.
-- 🌱 I’m currently working in MERN stack technology.
-- 📫 email : friend.jay24@gmail.com
-- 📫 contact : 9460942682
+## I’m Jay Patel, an aspiring `Backend Developer`
+### My current Techstack is NestJs (NodeJs + Typescript)
+```` 
+email : friend.jay24@gmail.com
+```` 
+
+```` 
+contact : 9460942682
+````
+
+
 
 <!---
 jaypatel-24/jaypatel-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
