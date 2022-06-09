@@ -1,5 +1,5 @@
 ## I’m Jay Patel, an aspiring `Backend Developer`
-### My current Techstack is NestJs (NodeJs + Typescript)
+### Skills: AWS, Node.Js, Express.Js, Apache Kafka, Docker, Socket.Io, Git
 ```` 
 email : friend.jay24@gmail.com
 ```` 
